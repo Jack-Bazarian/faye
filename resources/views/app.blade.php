@@ -18,8 +18,9 @@
     <br>
     <h2>Documents:</h2>
     <ul>
-        <li>dsadsadsa</li>
-        <li>dsadsadsa</li>
+        @foreach ($documents as $document)
+            <li><a href="{{ $document->id }}"> {{ $document->title}}</a></li>
+        @endforeach
 
 
     </ul>

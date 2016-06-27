@@ -11,6 +11,4 @@
 |
 */
 
-Route::get('/', function () {
-    return view('document.index');
-});
+Route::resource('documents', 'DocumentController');
