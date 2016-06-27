@@ -20,9 +20,9 @@
       <sourceFolder url="file://$MODULE_DIR$/vendor/doctrine/instantiator/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/vendor/phpspec/prophecy" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/vendor/classpreloader/classpreloader/src" isTestSource="false" packagePrefix="ClassPreloader" />
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/vendor/mtdowling/cron-expression/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/vendor/nesbot/carbon/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/vendor/laravel/framework/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/vendor/fzaninotto/faker/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/vendor/fzaninotto/faker/test" isTestSource="true" />
